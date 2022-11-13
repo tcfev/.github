@@ -26,6 +26,6 @@ Our bank’s webpage: https://gls.de
 PayPal:  
 https://www.paypal.com/donate/?hosted_button_id=PAZLB7BU7TC7J
 
-bitcoin:
+bitcoin:  
 bc1qkufpj9ka6ggqqya6ykypn3ejcnau2wk3ywvnl2
 
