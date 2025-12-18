@@ -3,4 +3,4 @@
 ## Involvments
 - [Fordem](https://github.com/tcfev/fordem) 
 - [Iranians Vote Digital Decomracy](https://github.com/iranians-Vote-Digital-Democracy/)
-- [Atlas of Iranian Civil Society Organisations](https://github.com/Atlasiran)
+- [Atlas of Iranian Civil Society Organisations](https://atlasiran.github.io/Atlas-website/)
