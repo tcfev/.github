@@ -9,7 +9,7 @@ TCFe.V. is an NG-NPO and a Civics innovation lab and a Heterarchy.
   - [Iranians.vote Referenda Tool](https://www.iranians.vote/#/) (A zero-knowledge proof voting system)
   - [INID SDK reverse-engineering project](https://github.com/Iranians-Vote-Digital-Democracy/INID) (Iranian national identity card SDK)
 - [Atlas of Iranian Diasporic Civil Society Organisations](https://atlasiran.github.io/Atlas-website/)
-- [Republic](https://github.com/jomhoor/republic) ([Jomhoor.org/en/index.html](https://Jomhoor.org/en/index.html))
+- [Republic](https://github.com/jomhoor/republic) (A Digital Direct Democracy Platform - Citizen Wallet & dAppa)
 
 - [University In Exile](https://transcf.org/university-in-exile/) (Creating economic and political power for diasporic communities)
 - [Digital Freedom Act for Iran](https://archive.is/8mgUB) Coalition (Legal investigations and advocacy for Iranians' digital rights in the EU)
